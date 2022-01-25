@@ -14,7 +14,7 @@
      <div class="card header">
          <div class="row">
              <div class="col">
-                <x-btn-tambah label="Jenis" :link="route('ruang.create')" />
+                <x-btn-tambah label="Ruang" :link="route('ruang.create')" />
              </div>
              <div class="col">
                 <x-search />
